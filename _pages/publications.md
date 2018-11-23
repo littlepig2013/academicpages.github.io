@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
 <b>[Evaluate Top-k Meta Path Queries on Large Heterogeneous Information Networks](http://littlepig2013.github.com/files/top-k.pdf)</b> <br>
