@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zichen Zhu"
 title_separator          : "-"
 name                     : &name "Zichen Zhu"
-description              : &description "MPhil in Database Group of Hong Kong University."
+description              : &description "MPhil Candidate in Database Group of Hong Kong University."
 url                      : https://littlepig2013.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "littlepig2013.github.io"
