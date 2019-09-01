@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zichen Zhu's Homepage"
+title: "Zichen Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Zichen Zhu(朱子晨 in Chinese). I am currently a 2nd-year MPhil candidate in Database Group, department of Computer Science in the University of Hong Kong, advised by [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/). Before that,
-I got my bachelor degree in software engineering of Tsinghua University.
+I'm Zichen Zhu(朱子晨 in Chinese). I am currently a 1st-year PhD candidate in [MiDAS](https://midas.bu.edu/) of [Boston University](https://www.bu.edu/). Before that, I studied as an MPhil student in Database Group, department of [Computer Science](https://www.cs.hku.hk/) in [the University of Hong Kong](https://hku.hk/), advised by [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/).
+I got my bachelor degree in [software engineering](http://www.thss.tsinghua.edu.cn) of [Tsinghua University](tsinghua.edu.cn).
 
-My research interests focus on data mining in heterogeneous information network, distributed graph computing, and database.
+My research interest focuses on the area of heterogeneous information network and distributed graph computing.
